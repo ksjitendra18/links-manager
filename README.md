@@ -1,4 +1,4 @@
-# About Prisma
+# About Project
 
 This is a link manager app which helps users to create short link with the custom slug.
 
